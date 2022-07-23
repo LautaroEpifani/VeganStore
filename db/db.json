@@ -1,0 +1,9 @@
+{
+    "products": [
+      { "id": 1, "name": "Pizza", "img": "`/imageNov/v1.png`", "price": 2},
+      { "id": 1, "name": "Queso", "img": "`/imageNov/v2.png`", "price": 3},
+      { "id": 1, "name": "Fideos", "img": "`/imageNov/v3.png`", "price": 4},
+      { "id": 1, "name": "Heura", "img": "`/imageNov/v4.png`", "price": 4}
+
+    ]
+   
